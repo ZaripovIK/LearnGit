@@ -5,5 +5,5 @@ $name=$a . $b;
 echo $name;
 
 if ($name=Ivan Nikanorovich){
-	echo "Имя написано прправильно!";
+	echo "Имя написано правильно!";
 };
