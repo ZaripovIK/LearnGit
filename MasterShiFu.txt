@@ -3,3 +3,7 @@ $a=Ivan;
 $b=Nikanorovich;
 $name=$a . $b;
 echo $name;
+
+if ($name=Ivan Nikanorovich){
+	echo "Имя написано прправильно!";
+};
